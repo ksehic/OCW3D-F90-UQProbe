@@ -7,7 +7,6 @@ Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
 
 Cite: Šehić K., Bredmose H., Sørensen J.D., Karamehmedović M.: Low-dimensional representation of wave generation to quantify extreme events, TBD
-Status: Submitted - Journal of Engineering Mathematics Dec 2019
 ---------------------------------------------------------------------------
 Version December 2019
 ---------------------------------------------------------------------------
