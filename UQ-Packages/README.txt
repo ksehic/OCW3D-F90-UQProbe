@@ -14,8 +14,8 @@ Description:
 * Discrete not-optimal learning of GP to quantify exceedance probability
 (failure probability) based on the U-function (the probability of
 misclassification). Low-dimensional representation substitutes
-high-dimensional initial uncertainties to defined initial waves for
-low-dimensional classification factors, which are used then as design
+high-dimensional initial uncertainties to define initial waves with
+low-dimensional classification factors, which is used then as design
 parameters for learning.
 ---------------------------------------------------------------------------
 
